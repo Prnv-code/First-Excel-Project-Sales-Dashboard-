@@ -11,7 +11,7 @@ The dashboard provides key insights on profit, sales, customers, and top-perform
 ---
 
 ## 📂 Project Files
-- `Sales_Dashboard.xlsx` → The main Excel project file with data, charts, and dashboard.
+- <a href = "https://github.com/Prnv-code/First-Excel-Project-Sales-Dashboard-/blob/main/salesdata.csv"> → The main Excel project file with data, charts, and dashboard.</a>
 - `dashboard_preview.png` → Screenshot of the dashboard.
 
 ---
