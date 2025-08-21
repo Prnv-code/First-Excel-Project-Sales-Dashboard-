@@ -5,14 +5,9 @@ The dashboard provides key insights on profit, sales, customers, and top-perform
 
 ---
 
-## 📸 Project Preview
-![Sales Dashboard](dashboard_preview.png)
-
----
-
 ## 📂 Project Files
 - <a href = "https://github.com/Prnv-code/First-Excel-Project-Sales-Dashboard-/blob/main/salesdata.csv"> → The main Excel project file with data, charts, and dashboard.</a>
-- `dashboard_preview.png` → Screenshot of the dashboard.
+- <a href = "https://github.com/Prnv-code/First-Excel-Project-Sales-Dashboard-/blob/main/first_excel_project.png"> → Screenshot of the dashboard.</a>
 
 ---
 
@@ -33,13 +28,6 @@ The dashboard provides key insights on profit, sales, customers, and top-perform
   - Pivot Charts  
   - Slicers for interactive filtering  
   - Data cleaning & preparation  
-
----
-
-## 🚀 How to Use
-1. Download the `Sales_Dashboard.xlsx` file.  
-2. Open in Microsoft Excel.  
-3. Use slicers (Year, Category) to interact with the dashboard.
 
 ---
 
